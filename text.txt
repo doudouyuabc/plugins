@@ -1,0 +1,9 @@
+常见的git命令
+在你建好的文件夹里点击右键git Bush Here
+1.git clone
+2.cd 上传的文件夹(haha)
+3.git add .(点指把所有的项目都上传)
+  git add haha(只上传次文件)
+4.$ git config --global user.email "1310650332@qq.com"
+  $ git config --global user.name "duqing"
+5.git push
