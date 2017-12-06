@@ -1,9 +1,13 @@
-³£¼ûµÄgitÃüÁî
-ÔÚÄã½¨ºÃµÄÎÄ¼ş¼ĞÀïµã»÷ÓÒ¼ügit Bush Here
+å¸¸è§çš„gitå‘½ä»¤
+åœ¨ä½ å»ºå¥½çš„æ–‡ä»¶å¤¹é‡Œç‚¹å‡»å³é”®git Bush Here
 1.git clone
-2.cd ÉÏ´«µÄÎÄ¼ş¼Ğ(haha)
-3.git add .(µãÖ¸°ÑËùÓĞµÄÏîÄ¿¶¼ÉÏ´«)
-  git add haha(Ö»ÉÏ´«´ÎÎÄ¼ş)
+2.cd ä¸Šä¼ çš„æ–‡ä»¶å¤¹(haha)
+3.git add .(ç‚¹æŒ‡æŠŠæ‰€æœ‰çš„é¡¹ç›®éƒ½ä¸Šä¼ )
+  git add haha(åªä¸Šä¼ æ¬¡æ–‡ä»¶)
 4.$ git config --global user.email "1310650332@qq.com"
   $ git config --global user.name "duqing"
 5.git push
+
+
+
+
